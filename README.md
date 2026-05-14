@@ -77,8 +77,6 @@ npx @juanjofuchs/agent-mail describe
 Claude Code exports detailed OpenTelemetry data, cost per request, token breakdowns, tool calls, cache hits, edit decisions. All of it vanishes unless you wire up a backend. claudefana is that backend. 1 dashboard, 26 panels across 8 sections, cost per commit, cache hit ratio, lines per dollar, etc.
 
 ```bash
-git clone https://github.com/JuanjoFuchs/claudefana.git
-cd claudefana
 docker compose -f docker-compose.otel.yaml up -d
 ```
 
@@ -92,8 +90,6 @@ docker compose -f docker-compose.otel.yaml up -d
 You deployed Claude Code to your engineering org, now you need to know if it's being adopted. Anthropic published a guide with 5 ROI questions, I built the dashboards that answer them. Two custom exporters pull org structure from Microsoft Graph and work data from Jira/Tempo. Three dashboards, 80+ panels.
 
 ```bash
-git clone https://github.com/JuanjoFuchs/claudefana-enterprise.git
-cd claudefana-enterprise
 docker compose -f docker-compose.enterprise.yaml up -d
 ```
 
