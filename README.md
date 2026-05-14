@@ -105,8 +105,7 @@ docker compose -f docker-compose.enterprise.yaml up -d
 
 ## ✍️ Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Why I Built Yet Another Agent Mail Tool](https://juanjofuchs.github.io/ai/2026/05/12/why-i-built-yet-another-agent-mail-tool.html) — May 12, 2026- [AI Will Never Have Shower Thoughts, Even if it Takes a Shower](https://juanjofuchs.github.io/ai/2026/05/05/ai-will-never-have-shower-thoughts-even-if-it-takes-a-shower.html) — May 05, 2026- [Usage Is Not Value](https://juanjofuchs.github.io/ai-development/2026/04/28/usage-is-not-value.html) — Apr 28, 2026- [The Call to Become a Super IC](https://juanjofuchs.github.io/ai-development/2026/04/21/the-call-to-become-a-super-ic.html) — Apr 21, 2026- [Build Your AI Writing Voice from Data You Already Have](https://juanjofuchs.github.io/ai/2026/04/07/build-your-ai-writing-voice-from-data-you-already-have.html) — Apr 07, 2026<!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.github.io](https://juanjofuchs.github.io/), writing about AI‑native development, second‑brain workflows, and the tools above.
 
