@@ -18,5 +18,4 @@ jobs:
         with:
           feed_list: "https://juanjofuchs.github.io/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url) — $date"
           date_format: "mmm dd, yyyy"
