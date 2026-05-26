@@ -49,7 +49,7 @@ uvx hwinfo-tui
 14 habits to ship better code with less spend on Claude Code. Every tip cites Anthropic docs, something Boris Cherny said publicly, or a published field heuristic. The HTML site is for humans, the Markdown is for Claude — point it at the repo and it pulls what it needs.
 
 ```bash
-gh repo view JuanjoFuchs/claude-code-tips
+juanjofuchs.github.io/claude-code-tips
 ```
 
 </td>
