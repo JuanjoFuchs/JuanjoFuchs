@@ -14,20 +14,7 @@ The agent layer is commoditized, Claude, Codex, Cursor, and Gemini are racing ea
 <tr>
 <td width="50%" valign="top">
 
-**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · ⭐ 57
-
-<a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
-
-A TUI for plotting HWInfo64 sensors. HWInfo shows your CPU at 75°C right now but can't tell you if it just spiked or has been climbing for 10 minutes. This plots the values live to visually understand your sensors.
-
-```bash
-uvx hwinfo-tui
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · ⭐ 37
+**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · ⭐ 89
 
 <a href="https://github.com/JuanjoFuchs/ccburn"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn/main/docs/ccburn_070.png" alt="ccburn screenshot" width="100%"></a>
 
@@ -38,8 +25,34 @@ npx ccburn
 ```
 
 </td>
+<td width="50%" valign="top">
+
+**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · ⭐ 58
+
+<a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
+
+A TUI for plotting HWInfo64 sensors. HWInfo shows your CPU at 75°C right now but can't tell you if it just spiked or has been climbing for 10 minutes. This plots the values live to visually understand your sensors.
+
+```bash
+uvx hwinfo-tui
+```
+
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+**📘 [claude-code-tips](https://github.com/JuanjoFuchs/claude-code-tips)**
+
+<a href="https://github.com/JuanjoFuchs/claude-code-tips"><img src="https://raw.githubusercontent.com/JuanjoFuchs/claude-code-tips/main/assets/claude-code-tips-site.png" alt="Claude Code Engineering Tips" width="100%"></a>
+
+14 habits to ship better code with less spend on Claude Code. Every tip cites Anthropic docs, something Boris Cherny said publicly, or a published field heuristic. The HTML site is for humans, the Markdown is for Claude — point it at the repo and it pulls what it needs.
+
+```bash
+gh repo view JuanjoFuchs/claude-code-tips
+```
+
+</td>
 <td width="50%" valign="top">
 
 **⏰ [tempo-filler-mcp-server](https://github.com/TRANZACT/tempo-filler-mcp-server)** · ⭐ 5
@@ -50,19 +63,6 @@ Tell Claude *"fill my October hours"* and the MCP server bulk‑creates the work
 
 ```bash
 npx @tranzact/tempo-filler-mcp-server
-```
-
-</td>
-<td width="50%" valign="top">
-
-**📬 [agent-mail-cli](https://github.com/JuanjoFuchs/agent-mail-cli)**
-
-<a href="https://github.com/JuanjoFuchs/agent-mail-cli"><img src="https://raw.githubusercontent.com/JuanjoFuchs/agent-mail-cli/main/docs/agent-mail-hero.gif" alt="agent-mail-cli demo" width="100%"></a>
-
-A CLI for coding agents to send mail to each other. One command for agents to learn it, no daemon, no MCP server, no harness setup. `send`, `read`, `ack`, `status`, that's the whole surface.
-
-```bash
-npx @juanjofuchs/agent-mail describe
 ```
 
 </td>
@@ -92,6 +92,26 @@ You deployed Claude Code to your engineering org, now you need to know if it's b
 ```bash
 docker compose -f docker-compose.enterprise.yaml up -d
 ```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📬 [agent-mail-cli](https://github.com/JuanjoFuchs/agent-mail-cli)**
+
+<a href="https://github.com/JuanjoFuchs/agent-mail-cli"><img src="https://raw.githubusercontent.com/JuanjoFuchs/agent-mail-cli/main/docs/agent-mail-hero.gif" alt="agent-mail-cli demo" width="100%"></a>
+
+A CLI for coding agents to send mail to each other. One command for agents to learn it, no daemon, no MCP server, no harness setup. `send`, `read`, `ack`, `status`, that's the whole surface.
+
+```bash
+npx @juanjofuchs/agent-mail describe
+```
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
 
 </td>
 </tr>
