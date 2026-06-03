@@ -120,11 +120,11 @@ npx @juanjofuchs/agent-mail describe
 ## ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Just Gave You a Dry Promotion, and Will Keep Promoting You Until…](https://juanjofuchs.github.io/ai-development/2026/06/02/claude-just-gave-you-a-dry-promotion-and-will-keep-promoting-you-until.html)
 - [14 Habits for Using Claude Code Without Wasting Tokens](https://juanjofuchs.github.io/ai-development/2026/05/26/14-habits-for-using-claude-code-without-wasting-tokens.html)
 - [Who Builds the Next Senior Engineer When AI Removes the Junior Work?](https://juanjofuchs.github.io/ai-development/2026/05/19/who-builds-the-next-senior-engineer-when-ai-removes-the-junior-work.html)
 - [Why I Built Yet Another Agent Mail Tool](https://juanjofuchs.github.io/ai/2026/05/12/why-i-built-yet-another-agent-mail-tool.html)
 - [AI Will Never Have Shower Thoughts, Even if it Takes a Shower](https://juanjofuchs.github.io/ai/2026/05/05/ai-will-never-have-shower-thoughts-even-if-it-takes-a-shower.html)
-- [Usage Is Not Value](https://juanjofuchs.github.io/ai-development/2026/04/28/usage-is-not-value.html)
 <!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.github.io](https://juanjofuchs.github.io/), writing about AI‑native development, second‑brain workflows, and the tools above.
