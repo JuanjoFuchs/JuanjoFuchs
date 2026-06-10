@@ -109,7 +109,15 @@ npx @juanjofuchs/agent-mail describe
 </td>
 <td width="50%" valign="top">
 
-&nbsp;
+**🔖 [atref](https://github.com/JuanjoFuchs/atref)**
+
+<a href="https://github.com/JuanjoFuchs/atref"><img src="https://raw.githubusercontent.com/JuanjoFuchs/atref/main/docs/picker-guides.png" alt="atref file-reference picker" width="100%"></a>
+
+Claude Code's `@` file picker — everywhere. Press a global chord in any text field (terminal, browser, Obsidian, IDE) and a fuzzy picker inserts an `@"<path>"` reference from your indexed folders. Git‑aware index, frecency, live file‑watcher, native acrylic UI. A Rust tray app that doubles as an agent‑drivable config CLI.
+
+```powershell
+winget install JuanjoFuchs.atref
+```
 
 </td>
 </tr>
