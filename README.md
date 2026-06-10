@@ -14,7 +14,7 @@ The agent layer is commoditized, Claude, Codex, Cursor, and Gemini are racing ea
 <tr>
 <td width="50%" valign="top">
 
-**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · ⭐ 89
+**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · ⭐ 90
 
 <a href="https://github.com/JuanjoFuchs/ccburn"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn/main/docs/ccburn_070.png" alt="ccburn screenshot" width="100%"></a>
 
@@ -27,7 +27,7 @@ npx ccburn
 </td>
 <td width="50%" valign="top">
 
-**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · ⭐ 58
+**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · ⭐ 60
 
 <a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
 
@@ -53,14 +53,14 @@ uvx hwinfo-tui
 </td>
 <td width="50%" valign="top">
 
-**⏰ [tempo-filler-mcp-server](https://github.com/TRANZACT/tempo-filler-mcp-server)** · ⭐ 5
+**🔖 [atref](https://github.com/JuanjoFuchs/atref)**
 
-<a href="https://github.com/TRANZACT/tempo-filler-mcp-server"><img src="https://raw.githubusercontent.com/TRANZACT/tempo-filler-mcp-server/main/docs/demo_get_worklogs.png" alt="Tempo Filler timesheet" width="100%"></a>
+<a href="https://github.com/JuanjoFuchs/atref"><img src="https://raw.githubusercontent.com/JuanjoFuchs/atref/main/docs/demo.gif" alt="atref demo: summon the picker and insert a file reference at the caret" width="100%"></a>
 
-Tell Claude *"fill my October hours"* and the MCP server bulk‑creates the worklogs once you approve. Uses MCP Apps to render visual timesheet and calendar UIs inside Claude Desktop and VS Code.
+Claude Code's `@` file picker — everywhere. Press a global chord in any text field (terminal, browser, Obsidian, IDE) and a fuzzy picker inserts an `@"<path>"` reference from your indexed folders. Git‑aware index, frecency, live file‑watcher, native acrylic UI. A Rust tray app that doubles as an agent‑drivable config CLI.
 
-```bash
-npx @tranzact/tempo-filler-mcp-server
+```powershell
+winget install JuanjoFuchs.atref
 ```
 
 </td>
@@ -109,14 +109,14 @@ npx @juanjofuchs/agent-mail describe
 </td>
 <td width="50%" valign="top">
 
-**🔖 [atref](https://github.com/JuanjoFuchs/atref)**
+**⏰ [tempo-filler-mcp-server](https://github.com/TRANZACT/tempo-filler-mcp-server)** · ⭐ 5
 
-<a href="https://github.com/JuanjoFuchs/atref"><img src="https://raw.githubusercontent.com/JuanjoFuchs/atref/main/docs/picker-guides.png" alt="atref file-reference picker" width="100%"></a>
+<a href="https://github.com/TRANZACT/tempo-filler-mcp-server"><img src="https://raw.githubusercontent.com/TRANZACT/tempo-filler-mcp-server/main/docs/demo_get_worklogs.png" alt="Tempo Filler timesheet" width="100%"></a>
 
-Claude Code's `@` file picker — everywhere. Press a global chord in any text field (terminal, browser, Obsidian, IDE) and a fuzzy picker inserts an `@"<path>"` reference from your indexed folders. Git‑aware index, frecency, live file‑watcher, native acrylic UI. A Rust tray app that doubles as an agent‑drivable config CLI.
+Tell Claude *"fill my October hours"* and the MCP server bulk‑creates the worklogs once you approve. Uses MCP Apps to render visual timesheet and calendar UIs inside Claude Desktop and VS Code.
 
-```powershell
-winget install JuanjoFuchs.atref
+```bash
+npx @tranzact/tempo-filler-mcp-server
 ```
 
 </td>
