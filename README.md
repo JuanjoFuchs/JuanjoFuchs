@@ -128,11 +128,11 @@ npx @tranzact/tempo-filler-mcp-server
 ## ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Loop Engineering for the Rest of Us](https://juanjofuchs.github.io/ai-development/2026/06/16/loop-engineering-for-the-rest-of-us.html)
 - [Launching atref: Don’t Install Skills, Mention Your Second-Brain Guides Into Any Agent](https://juanjofuchs.github.io/ai-development/2026/06/09/launching-atref-dont-install-skills-mention-your-second-brain-guides-into-any-agent.html)
 - [Claude Just Gave You a Dry Promotion, and Will Keep Promoting You Until…](https://juanjofuchs.github.io/ai-development/2026/06/02/claude-just-gave-you-a-dry-promotion-and-will-keep-promoting-you-until.html)
 - [14 Habits for Using Claude Code Without Wasting Tokens](https://juanjofuchs.github.io/ai-development/2026/05/26/14-habits-for-using-claude-code-without-wasting-tokens.html)
 - [Who Builds the Next Senior Engineer When AI Removes the Junior Work?](https://juanjofuchs.github.io/ai-development/2026/05/19/who-builds-the-next-senior-engineer-when-ai-removes-the-junior-work.html)
-- [Why I Built Yet Another Agent Mail Tool](https://juanjofuchs.github.io/ai/2026/05/12/why-i-built-yet-another-agent-mail-tool.html)
 <!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.github.io](https://juanjofuchs.github.io/), writing about AI‑native development, second‑brain workflows, and the tools above.
