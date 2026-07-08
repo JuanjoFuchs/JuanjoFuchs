@@ -128,11 +128,11 @@ npx @tranzact/tempo-filler-mcp-server
 ## ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Taste Debt](https://juanjofuchs.github.io/ai-development/2026/07/07/taste-debt.html)
 - [How I Write Specs with AI](https://juanjofuchs.github.io/ai-development/2026/06/30/how-i-write-specs-with-ai.html)
 - [The Intelligence Gap](https://juanjofuchs.github.io/ai-development/2026/06/23/the-intelligence-gap.html)
 - [Loop Engineering for the Rest of Us](https://juanjofuchs.github.io/ai-development/2026/06/16/loop-engineering-for-the-rest-of-us.html)
 - [Launching atref: Don’t Install Skills, Mention Your Second-Brain Guides Into Any Agent](https://juanjofuchs.github.io/ai-development/2026/06/09/launching-atref-dont-install-skills-mention-your-second-brain-guides-into-any-agent.html)
-- [Claude Just Gave You a Dry Promotion, and Will Keep Promoting You Until…](https://juanjofuchs.github.io/ai-development/2026/06/02/claude-just-gave-you-a-dry-promotion-and-will-keep-promoting-you-until.html)
 <!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.github.io](https://juanjofuchs.github.io/), writing about AI‑native development, second‑brain workflows, and the tools above.
