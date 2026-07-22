@@ -128,11 +128,11 @@ npx @tranzact/tempo-filler-mcp-server
 ## ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [The Vibe Coder Liberty Paradox: Who Maintains What AI Lets Anyone Ship?](https://juanjofuchs.github.io/ai-development/2026/07/21/the-vibe-coder-liberty-paradox-who-maintains-what-ai-lets-anyone-ship.html)
 - [Building Your Second Brain, Part 5: The Capture Loop](https://juanjofuchs.github.io/productivity/2026/07/14/building-your-second-brain-part-5-the-capture-loop.html)
 - [Taste Debt](https://juanjofuchs.github.io/ai-development/2026/07/07/taste-debt.html)
 - [How I Write Specs with AI](https://juanjofuchs.github.io/ai-development/2026/06/30/how-i-write-specs-with-ai.html)
 - [The Intelligence Gap](https://juanjofuchs.github.io/ai-development/2026/06/23/the-intelligence-gap.html)
-- [Loop Engineering for the Rest of Us](https://juanjofuchs.github.io/ai-development/2026/06/16/loop-engineering-for-the-rest-of-us.html)
 <!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.github.io](https://juanjofuchs.github.io/), writing about AI‑native development, second‑brain workflows, and the tools above.
