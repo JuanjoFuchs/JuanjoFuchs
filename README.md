@@ -12,6 +12,25 @@ The agent layer is commoditized, Claude, Codex, Cursor, and Gemini are racing ea
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+**🎙️ [voice-tunnel](https://github.com/JuanjoFuchs/voice-tunnel)**
+
+<a href="https://github.com/JuanjoFuchs/voice-tunnel"><img src="https://raw.githubusercontent.com/JuanjoFuchs/voice-tunnel/main/docs/demo.gif" alt="Shipping a release by voice from a phone" align="left" width="200"></a>
+
+Talk to your coding agent from your phone. One command opens a page any phone browser can load, no app and no App Store, and carries audio both ways. **If your agent can run bash, it can talk to you.** Claude Code, Codex and Grok each drive it unchanged, because the tool holds no model and makes no decisions, the agent that started it does the thinking.
+
+Speech recognition (Parakeet TDT) and synthesis (Piper) both run on your CPU. No GPU, no speech API, no account, and nothing you say leaves the machine. Turns end when you *sound* finished rather than when a timer expires, and only your own voiceprint can interrupt a reply, so the room and the agent's own speech cannot.
+
+Onboarding an agent is one call: `voice-tunnel describe` returns the whole contract as JSON, no MCP server and no docs to keep in sync. [Read the write‑up](https://juanjofuchs.github.io/ai/2026/08/11/launching-voice-tunnel-talk-to-your-coding-agent-from-your-phone.html).
+
+```bash
+npm install -g @juanjofuchs/voice-tunnel
+```
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · ⭐ 90
