@@ -33,7 +33,7 @@ npm install -g @juanjofuchs/voice-tunnel
 <tr>
 <td width="50%" valign="top">
 
-**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · ⭐ 94
+**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/ccburn?style=flat-square&label=%E2%AD%90&color=555)](https://github.com/JuanjoFuchs/ccburn/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/ccburn"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn/main/docs/ccburn_070.png" alt="ccburn screenshot" width="100%"></a>
 
@@ -46,7 +46,7 @@ npx ccburn
 </td>
 <td width="50%" valign="top">
 
-**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · ⭐ 62
+**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/hwinfo-tui?style=flat-square&label=%E2%AD%90&color=555)](https://github.com/JuanjoFuchs/hwinfo-tui/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
 
@@ -87,7 +87,7 @@ winget install JuanjoFuchs.atref
 <tr>
 <td width="50%" valign="top">
 
-**📊 [claudefana](https://github.com/JuanjoFuchs/claudefana)** · ⭐ 2
+**📊 [claudefana](https://github.com/JuanjoFuchs/claudefana)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/claudefana?style=flat-square&label=%E2%AD%90&color=555)](https://github.com/JuanjoFuchs/claudefana/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/claudefana"><img src="https://raw.githubusercontent.com/JuanjoFuchs/claudefana/main/docs/screenshot.png" alt="claudefana dashboard" width="100%"></a>
 
@@ -128,7 +128,7 @@ npx @juanjofuchs/agent-mail describe
 </td>
 <td width="50%" valign="top">
 
-**⏰ [tempo-filler-mcp-server](https://github.com/TRANZACT/tempo-filler-mcp-server)** · ⭐ 5
+**⏰ [tempo-filler-mcp-server](https://github.com/TRANZACT/tempo-filler-mcp-server)** · [![⭐](https://img.shields.io/github/stars/TRANZACT/tempo-filler-mcp-server?style=flat-square&label=%E2%AD%90&color=555)](https://github.com/TRANZACT/tempo-filler-mcp-server/stargazers)
 
 <a href="https://github.com/TRANZACT/tempo-filler-mcp-server"><img src="https://raw.githubusercontent.com/TRANZACT/tempo-filler-mcp-server/main/docs/demo_get_worklogs.png" alt="Tempo Filler timesheet" width="100%"></a>
 
