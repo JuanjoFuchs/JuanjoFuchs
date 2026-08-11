@@ -33,7 +33,7 @@ npm install -g @juanjofuchs/voice-tunnel
 <tr>
 <td width="50%" valign="top">
 
-**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · ⭐ 90
+**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · ⭐ 94
 
 <a href="https://github.com/JuanjoFuchs/ccburn"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn/main/docs/ccburn_070.png" alt="ccburn screenshot" width="100%"></a>
 
@@ -46,7 +46,7 @@ npx ccburn
 </td>
 <td width="50%" valign="top">
 
-**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · ⭐ 60
+**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · ⭐ 62
 
 <a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
 
@@ -87,7 +87,7 @@ winget install JuanjoFuchs.atref
 <tr>
 <td width="50%" valign="top">
 
-**📊 [claudefana](https://github.com/JuanjoFuchs/claudefana)** · ⭐ 1
+**📊 [claudefana](https://github.com/JuanjoFuchs/claudefana)** · ⭐ 2
 
 <a href="https://github.com/JuanjoFuchs/claudefana"><img src="https://raw.githubusercontent.com/JuanjoFuchs/claudefana/main/docs/screenshot.png" alt="claudefana dashboard" width="100%"></a>
 
