@@ -14,7 +14,7 @@ The agent layer is commoditized, Claude, Codex, Cursor, and Gemini are racing ea
 <tr>
 <td colspan="2" valign="top">
 
-**🎙️ [voice-tunnel](https://github.com/JuanjoFuchs/voice-tunnel)**
+**🎙️ [voice-tunnel](https://github.com/JuanjoFuchs/voice-tunnel)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/voice-tunnel?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/voice-tunnel/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/voice-tunnel"><img src="https://raw.githubusercontent.com/JuanjoFuchs/voice-tunnel/main/docs/demo.gif" alt="Shipping a release by voice from a phone" align="left" width="200"></a>
 
@@ -33,7 +33,7 @@ npm install -g @juanjofuchs/voice-tunnel
 <tr>
 <td width="50%" valign="top">
 
-**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/ccburn?style=flat-square&label=%E2%AD%90&color=555)](https://github.com/JuanjoFuchs/ccburn/stargazers)
+**🔥 [ccburn](https://github.com/JuanjoFuchs/ccburn)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/ccburn?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/ccburn/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/ccburn"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn/main/docs/ccburn_070.png" alt="ccburn screenshot" width="100%"></a>
 
@@ -46,7 +46,7 @@ npx ccburn
 </td>
 <td width="50%" valign="top">
 
-**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/hwinfo-tui?style=flat-square&label=%E2%AD%90&color=555)](https://github.com/JuanjoFuchs/hwinfo-tui/stargazers)
+**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/hwinfo-tui?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/hwinfo-tui/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
 
@@ -61,7 +61,7 @@ uvx hwinfo-tui
 <tr>
 <td width="50%" valign="top">
 
-**📘 [claude-code-tips](https://github.com/JuanjoFuchs/claude-code-tips)**
+**📘 [claude-code-tips](https://github.com/JuanjoFuchs/claude-code-tips)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/claude-code-tips?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/claude-code-tips/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/claude-code-tips"><img src="https://raw.githubusercontent.com/JuanjoFuchs/claude-code-tips/main/assets/claude-code-tips-site.png" alt="Claude Code Engineering Tips" width="100%"></a>
 
@@ -72,7 +72,7 @@ uvx hwinfo-tui
 </td>
 <td width="50%" valign="top">
 
-**🔖 [atref](https://github.com/JuanjoFuchs/atref)**
+**🔖 [atref](https://github.com/JuanjoFuchs/atref)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/atref?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/atref/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/atref"><img src="https://raw.githubusercontent.com/JuanjoFuchs/atref/main/docs/demo.gif" alt="atref demo: summon the picker and insert a file reference at the caret" width="100%"></a>
 
@@ -87,7 +87,7 @@ winget install JuanjoFuchs.atref
 <tr>
 <td width="50%" valign="top">
 
-**📊 [claudefana](https://github.com/JuanjoFuchs/claudefana)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/claudefana?style=flat-square&label=%E2%AD%90&color=555)](https://github.com/JuanjoFuchs/claudefana/stargazers)
+**📊 [claudefana](https://github.com/JuanjoFuchs/claudefana)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/claudefana?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/claudefana/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/claudefana"><img src="https://raw.githubusercontent.com/JuanjoFuchs/claudefana/main/docs/screenshot.png" alt="claudefana dashboard" width="100%"></a>
 
@@ -100,7 +100,7 @@ docker compose -f docker-compose.otel.yaml up -d
 </td>
 <td width="50%" valign="top">
 
-**🏢 [claudefana-enterprise](https://github.com/JuanjoFuchs/claudefana-enterprise)**
+**🏢 [claudefana-enterprise](https://github.com/JuanjoFuchs/claudefana-enterprise)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/claudefana-enterprise?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/claudefana-enterprise/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/claudefana-enterprise"><img src="https://raw.githubusercontent.com/JuanjoFuchs/claudefana-enterprise/main/docs/screenshot.png" alt="claudefana enterprise" width="100%"></a>
 
@@ -115,7 +115,7 @@ docker compose -f docker-compose.enterprise.yaml up -d
 <tr>
 <td width="50%" valign="top">
 
-**📬 [agent-mail-cli](https://github.com/JuanjoFuchs/agent-mail-cli)**
+**📬 [agent-mail-cli](https://github.com/JuanjoFuchs/agent-mail-cli)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/agent-mail-cli?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/agent-mail-cli/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/agent-mail-cli"><img src="https://raw.githubusercontent.com/JuanjoFuchs/agent-mail-cli/main/docs/agent-mail-hero.gif" alt="agent-mail-cli demo" width="100%"></a>
 
@@ -128,7 +128,7 @@ npx @juanjofuchs/agent-mail describe
 </td>
 <td width="50%" valign="top">
 
-**⏰ [tempo-filler-mcp-server](https://github.com/TRANZACT/tempo-filler-mcp-server)** · [![⭐](https://img.shields.io/github/stars/TRANZACT/tempo-filler-mcp-server?style=flat-square&label=%E2%AD%90&color=555)](https://github.com/TRANZACT/tempo-filler-mcp-server/stargazers)
+**⏰ [tempo-filler-mcp-server](https://github.com/TRANZACT/tempo-filler-mcp-server)** · [![⭐](https://img.shields.io/github/stars/TRANZACT/tempo-filler-mcp-server?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/TRANZACT/tempo-filler-mcp-server/stargazers)
 
 <a href="https://github.com/TRANZACT/tempo-filler-mcp-server"><img src="https://raw.githubusercontent.com/TRANZACT/tempo-filler-mcp-server/main/docs/demo_get_worklogs.png" alt="Tempo Filler timesheet" width="100%"></a>
 
