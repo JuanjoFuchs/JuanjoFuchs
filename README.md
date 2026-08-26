@@ -147,11 +147,11 @@ npx @tranzact/tempo-filler-mcp-server
 ## ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Bandwidth: Intent and Understanding Per Minute](https://juanjofuchs.com/blog/intent-per-minute)
 - [Proof of Effort](https://juanjofuchs.com/blog/proof-of-effort)
 - [Launching voice-tunnel: Talk to Your Coding Agent From Your Phone](https://juanjofuchs.com/ai/2026/08/11/launching-voice-tunnel-talk-to-your-coding-agent-from-your-phone.html)
 - [Building Your Second Brain, Part 6: Git as Durable Memory](https://juanjofuchs.com/productivity/2026/08/04/building-your-second-brain-part-6-git-as-durable-memory.html)
 - [GitHub Stars Are Not Evals](https://juanjofuchs.com/ai-development/2026/07/28/github-stars-are-not-evals.html)
-- [The Vibe Coder Liberty Paradox: Who Maintains What AI Lets Anyone Ship?](https://juanjofuchs.com/ai-development/2026/07/21/the-vibe-coder-liberty-paradox-who-maintains-what-ai-lets-anyone-ship.html)
 <!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.github.io](https://juanjofuchs.github.io/), writing about AI‑native development, second‑brain workflows, and the tools above.
