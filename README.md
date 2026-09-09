@@ -12,17 +12,26 @@ The agent layer is commoditized, Claude, Codex, Cursor, and Gemini are racing ea
 
 <table>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+**🛰️ [command-bridge](https://github.com/JuanjoFuchs/command-bridge)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/command-bridge?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/command-bridge/stargazers)
+
+<a href="https://github.com/JuanjoFuchs/command-bridge"><img src="https://raw.githubusercontent.com/JuanjoFuchs/command-bridge/main/docs/demo.gif" alt="Command Bridge demo: an agent explains its watch logic, pointing at each box of the diagram it drew on the shared canvas" width="100%"></a>
+
+Meet a room of your coding agents by voice and watch them show you the work. Command Bridge is voice-tunnel grown up: the same local, self-describing CLI, now with a shared canvas the agents draw and point at while they explain, and a lane for each agent like participants on a call. Speech in and out on your own machine, no app, no account, no model in the tool. One `command-bridge describe` and your agent drives voice and canvas both.
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/JuanjoFuchs/command-bridge/main/install.sh | bash
+```
+
+</td>
+<td width="50%" valign="top">
 
 **🎙️ [voice-tunnel](https://github.com/JuanjoFuchs/voice-tunnel)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/voice-tunnel?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/voice-tunnel/stargazers)
 
-<a href="https://github.com/JuanjoFuchs/voice-tunnel"><img src="https://raw.githubusercontent.com/JuanjoFuchs/voice-tunnel/main/docs/demo.gif" alt="Shipping a release by voice from a phone" align="left" width="200"></a>
+<a href="https://github.com/JuanjoFuchs/voice-tunnel"><img src="https://raw.githubusercontent.com/JuanjoFuchs/voice-tunnel/main/docs/demo.gif" alt="Shipping a release by voice from a phone" width="100%"></a>
 
-Talk to your coding agent from your phone. One command opens a page any phone browser can load, no app and no App Store, and carries audio both ways. **If your agent can run bash, it can talk to you.** Claude Code, Codex and Grok each drive it unchanged, because the tool holds no model and makes no decisions, the agent that started it does the thinking.
-
-Speech recognition (Parakeet TDT) and synthesis (Piper) both run on your CPU. No GPU, no speech API, no account, and nothing you say leaves the machine. Turns end when you *sound* finished rather than when a timer expires, and only your own voiceprint can interrupt a reply, so the room and the agent's own speech cannot.
-
-Onboarding an agent is one call: `voice-tunnel describe` returns the whole contract as JSON, no MCP server and no docs to keep in sync. [Read the write‑up](https://juanjofuchs.com/blog/voice-tunnel).
+Talk to your coding agent from your phone. One command opens a page any phone browser can load, no app and no App Store, and carries audio both ways. If your agent can run bash it can talk to you, and Claude Code, Codex and Grok drive it unchanged. Speech runs on your own CPU and nothing you say leaves the machine. Now frozen as a finished release; its shared-canvas successor is [command-bridge](https://github.com/JuanjoFuchs/command-bridge), to the left.
 
 ```bash
 npm install -g @juanjofuchs/voice-tunnel
