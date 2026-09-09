@@ -4,7 +4,7 @@
 
 The agent layer is commoditized, Claude, Codex, Cursor, and Gemini are racing each other. My time goes into the layer *above*: tooling and institutional knowledge that compound across model swaps, the kind you don't have to rebuild when you switch harnesses.
 
-> *["Stop building another Claude. Build the harness around the one you already have."](https://juanjofuchs.github.io/ai-development/2026/03/31/stop-building-another-claude-learn-how-to-effectively-onboard-one-into-your-organization-instead.html)*
+> *["Stop building another Claude. Build the harness around the one you already have."](https://juanjofuchs.com/ai-development/2026/03/31/stop-building-another-claude-learn-how-to-effectively-onboard-one-into-your-organization-instead.html)*
 
 ---
 
@@ -77,7 +77,7 @@ uvx hwinfo-tui
 
 14 habits to ship better code with less spend on Claude Code. Every tip cites Anthropic docs, something Boris Cherny said publicly, or a published field heuristic. The HTML site is for humans, the Markdown is for Claude — point it at the repo and it pulls what it needs.
 
-> <a href="https://juanjofuchs.github.io/claude-code-tips/" target="_blank" rel="noopener">juanjofuchs.github.io/claude-code-tips</a>
+> <a href="https://juanjofuchs.com/claude-code-tips/" target="_blank" rel="noopener">juanjofuchs.com/claude-code-tips</a>
 
 </td>
 <td width="50%" valign="top">
@@ -164,11 +164,11 @@ npx @tranzact/tempo-filler-mcp-server
 - [Launching voice-tunnel: Talk to Your Coding Agent From Your Phone](https://juanjofuchs.com/ai/2026/08/11/launching-voice-tunnel-talk-to-your-coding-agent-from-your-phone.html)
 <!-- BLOG-POST-LIST:END -->
 
-More at [juanjofuchs.github.io](https://juanjofuchs.github.io/), writing about AI‑native development, second‑brain workflows, and the tools above.
+More at [juanjofuchs.com](https://juanjofuchs.com/), writing about AI‑native development, second‑brain workflows, and the tools above.
 
 ## 🤝 Connect
 
-[![Blog](https://img.shields.io/badge/Blog-juanjofuchs.github.io-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://juanjofuchs.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-juanjofuchs.com-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://juanjofuchs.com/)
 [![X](https://img.shields.io/badge/X-@JuanjoFuchs-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/JuanjoFuchs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Jos%C3%A9_Fuchs-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjofuchs)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanjoFuchs)
