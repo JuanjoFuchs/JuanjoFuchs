@@ -21,7 +21,8 @@ The agent layer is commoditized, Claude, Codex, Cursor, and Gemini are racing ea
 Meet a room of your coding agents by voice and watch them show you the work. Command Bridge is voice-tunnel grown up: the same local, self-describing CLI, now with a shared canvas the agents draw and point at while they explain, and a lane for each agent like participants on a call. Speech in and out on your own machine, no app, no account, no model in the tool. One `command-bridge describe` and your agent drives voice and canvas both.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/JuanjoFuchs/command-bridge/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/\
+JuanjoFuchs/command-bridge/main/install.sh | bash
 ```
 
 </td>
