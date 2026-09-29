@@ -157,11 +157,11 @@ npx @tranzact/tempo-filler-mcp-server
 ## ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Recall](https://juanjofuchs.com/blog/recall)
 - [How can I use System One models in my second brain?](https://juanjofuchs.com/blog/system-one-models)
 - [What Sets You Apart](https://juanjofuchs.com/blog/what-sets-you-apart)
 - [Deixis: the agent points](https://juanjofuchs.com/blog/deixis)
 - [What We Should Protect If AI Is the Next Great Filter](https://juanjofuchs.com/blog/optimistic-nihilism)
-- [Bandwidth: Intent and Understanding Per Minute](https://juanjofuchs.com/blog/intent-per-minute)
 <!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.com](https://juanjofuchs.com/), writing about AI‑native development, second‑brain workflows, and the tools above.
