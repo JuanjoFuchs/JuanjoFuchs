@@ -56,6 +56,22 @@ npx ccburn
 </td>
 <td width="50%" valign="top">
 
+**🔥 [ccburn-mod](https://github.com/JuanjoFuchs/ccburn-mod)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/ccburn-mod?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/ccburn-mod/stargazers)
+
+<a href="https://github.com/JuanjoFuchs/ccburn-mod"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn-mod/main/docs/screenshot.png" alt="ccburn-mod: the burn-up chart in a Claude Code pane beside the conversation" width="100%"></a>
+
+ccburn's burn-up chart, inside Claude Code. Your 5‑hour and weekly limits, your pace and when you would run out, in a pane beside your conversation. A Claude Code mod, so there are no API calls and no credentials; with ccburn installed it follows every session on your account. [Launch post](https://juanjofuchs.com/blog/ccburn-mod).
+
+```bash
+claude plugin marketplace add JuanjoFuchs/ccburn-mod
+claude plugin install ccburn@ccburn-mod
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/hwinfo-tui?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/hwinfo-tui/stargazers)
 
 <a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
@@ -67,8 +83,6 @@ uvx hwinfo-tui
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **📘 [claude-code-tips](https://github.com/JuanjoFuchs/claude-code-tips)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/claude-code-tips?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/claude-code-tips/stargazers)
@@ -80,6 +94,8 @@ uvx hwinfo-tui
 > <a href="https://juanjofuchs.com/claude-code-tips/" target="_blank" rel="noopener">juanjofuchs.com/claude-code-tips</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🔖 [atref](https://github.com/JuanjoFuchs/atref)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/atref?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/atref/stargazers)
@@ -93,8 +109,6 @@ winget install JuanjoFuchs.atref
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **📊 [claudefana](https://github.com/JuanjoFuchs/claudefana)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/claudefana?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/claudefana/stargazers)
@@ -108,6 +122,8 @@ docker compose -f docker-compose.otel.yaml up -d
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🏢 [claudefana-enterprise](https://github.com/JuanjoFuchs/claudefana-enterprise)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/claudefana-enterprise?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/claudefana-enterprise/stargazers)
@@ -121,8 +137,6 @@ docker compose -f docker-compose.enterprise.yaml up -d
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **📬 [agent-mail-cli](https://github.com/JuanjoFuchs/agent-mail-cli)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/agent-mail-cli?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/agent-mail-cli/stargazers)
@@ -136,6 +150,8 @@ npx @juanjofuchs/agent-mail describe
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **⏰ [tempo-filler-mcp-server](https://github.com/TRANZACT/tempo-filler-mcp-server)** · [![⭐](https://img.shields.io/github/stars/TRANZACT/tempo-filler-mcp-server?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/TRANZACT/tempo-filler-mcp-server/stargazers)
@@ -148,24 +164,6 @@ Tell Claude *"fill my October hours"* and the MCP server bulk‑creates the work
 npx @tranzact/tempo-filler-mcp-server
 ```
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔥 [ccburn-mod](https://github.com/JuanjoFuchs/ccburn-mod)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/ccburn-mod?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/ccburn-mod/stargazers)
-
-<a href="https://github.com/JuanjoFuchs/ccburn-mod"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn-mod/main/docs/screenshot.png" alt="ccburn-mod: the burn-up chart in a Claude Code pane beside the conversation" width="100%"></a>
-
-ccburn's burn-up chart, inside Claude Code. Your 5‑hour and weekly limits, your pace and when you would run out, in a pane beside your conversation. A Claude Code mod, so there are no API calls and no credentials; with ccburn installed it follows every session on your account. [Launch post](https://juanjofuchs.com/blog/ccburn-mod).
-
-```bash
-claude plugin marketplace add JuanjoFuchs/ccburn-mod
-claude plugin install ccburn@ccburn-mod
-```
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
