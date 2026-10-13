@@ -56,15 +56,14 @@ npx ccburn
 </td>
 <td width="50%" valign="top">
 
-**🔥 [ccburn-mod](https://github.com/JuanjoFuchs/ccburn-mod)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/ccburn-mod?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/ccburn-mod/stargazers)
+**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/hwinfo-tui?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/hwinfo-tui/stargazers)
 
-<a href="https://github.com/JuanjoFuchs/ccburn-mod"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn-mod/main/docs/screenshot.png" alt="ccburn-mod: the burn-up chart in a Claude Code pane beside the conversation" width="100%"></a>
+<a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
 
-ccburn's burn-up chart, inside Claude Code. Your 5‑hour and weekly limits, your pace and when you would run out, in a pane beside your conversation. A Claude Code mod, so there are no API calls and no credentials; with ccburn installed it follows every session on your account. [Launch post](https://juanjofuchs.com/blog/ccburn-mod).
+A TUI for plotting HWInfo64 sensors. HWInfo shows your CPU at 75°C right now but can't tell you if it just spiked or has been climbing for 10 minutes. This plots the values live to visually understand your sensors.
 
 ```bash
-claude plugin marketplace add JuanjoFuchs/ccburn-mod
-claude plugin install ccburn@ccburn-mod
+uvx hwinfo-tui
 ```
 
 </td>
@@ -154,14 +153,15 @@ npx @tranzact/tempo-filler-mcp-server
 <tr>
 <td width="50%" valign="top">
 
-**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/hwinfo-tui?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/hwinfo-tui/stargazers)
+**🔥 [ccburn-mod](https://github.com/JuanjoFuchs/ccburn-mod)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/ccburn-mod?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/ccburn-mod/stargazers)
 
-<a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
+<a href="https://github.com/JuanjoFuchs/ccburn-mod"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn-mod/main/docs/screenshot.png" alt="ccburn-mod: the burn-up chart in a Claude Code pane beside the conversation" width="100%"></a>
 
-A TUI for plotting HWInfo64 sensors. HWInfo shows your CPU at 75°C right now but can't tell you if it just spiked or has been climbing for 10 minutes. This plots the values live to visually understand your sensors.
+ccburn's burn-up chart, inside Claude Code. Your 5‑hour and weekly limits, your pace and when you would run out, in a pane beside your conversation. A Claude Code mod, so there are no API calls and no credentials; with ccburn installed it follows every session on your account. [Launch post](https://juanjofuchs.com/blog/ccburn-mod).
 
 ```bash
-uvx hwinfo-tui
+claude plugin marketplace add JuanjoFuchs/ccburn-mod
+claude plugin install ccburn@ccburn-mod
 ```
 
 </td>
