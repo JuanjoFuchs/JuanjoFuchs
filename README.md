@@ -16,9 +16,9 @@ The agent layer is commoditized, Claude, Codex, Cursor, and Gemini are racing ea
 
 **🛰️ [command-bridge](https://github.com/JuanjoFuchs/command-bridge)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/command-bridge?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/command-bridge/stargazers)
 
-<a href="https://github.com/JuanjoFuchs/command-bridge"><img src="https://raw.githubusercontent.com/JuanjoFuchs/command-bridge/main/docs/demo.gif" alt="Command Bridge demo: an agent explains its watch logic, pointing at each box of the diagram it drew on the shared canvas" width="100%"></a>
+<a href="https://github.com/JuanjoFuchs/command-bridge"><img src="https://raw.githubusercontent.com/JuanjoFuchs/command-bridge/main/docs/demo.gif" alt="Command Bridge demo: talking to a team of Claude Code agents by voice, the roster, the board of what each agent is on, and an agent explaining a blog post on a diagram it points at box by box" width="100%"></a>
 
-Meet a room of your coding agents by voice and watch them show you the work. Command Bridge is voice-tunnel grown up: the same local, self-describing CLI, now with a shared canvas the agents draw and point at while they explain, and a lane for each agent like participants on a call. Speech in and out on your own machine, no app, no account, no model in the tool. One `command-bridge describe` and your agent drives voice and canvas both.
+Meet a room of your coding agents by voice and watch them show you the work. Command Bridge is voice-tunnel grown up: the same local, self-describing CLI, now with a shared canvas the agents draw and point at while they explain, and a lane for each agent like participants on a call. Speech in and out on your own machine, no app, no account, no model in the tool. One `command-bridge describe` and your agent drives voice and canvas both. In the [demo](https://github.com/JuanjoFuchs/command-bridge/blob/main/docs/demo.mp4), I bring up the team by voice and one agent walks me through [Teaching Your Second Brain to Dream](https://juanjofuchs.com/blog/teaching-your-second-brain-to-dream) on a diagram it points at.
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/\
@@ -56,14 +56,15 @@ npx ccburn
 </td>
 <td width="50%" valign="top">
 
-**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/hwinfo-tui?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/hwinfo-tui/stargazers)
+**🔥 [ccburn-mod](https://github.com/JuanjoFuchs/ccburn-mod)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/ccburn-mod?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/ccburn-mod/stargazers)
 
-<a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
+<a href="https://github.com/JuanjoFuchs/ccburn-mod"><img src="https://raw.githubusercontent.com/JuanjoFuchs/ccburn-mod/main/docs/screenshot.png" alt="ccburn-mod: the burn-up chart in a Claude Code pane beside the conversation" width="100%"></a>
 
-A TUI for plotting HWInfo64 sensors. HWInfo shows your CPU at 75°C right now but can't tell you if it just spiked or has been climbing for 10 minutes. This plots the values live to visually understand your sensors.
+ccburn's burn-up chart, inside Claude Code. Your 5‑hour and weekly limits, your pace and when you would run out, in a pane beside your conversation. A Claude Code mod, so there are no API calls and no credentials; with ccburn installed it follows every session on your account. [Launch post](https://juanjofuchs.com/blog/ccburn-mod).
 
 ```bash
-uvx hwinfo-tui
+claude plugin marketplace add JuanjoFuchs/ccburn-mod
+claude plugin install ccburn@ccburn-mod
 ```
 
 </td>
@@ -148,6 +149,23 @@ Tell Claude *"fill my October hours"* and the MCP server bulk‑creates the work
 npx @tranzact/tempo-filler-mcp-server
 ```
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui)** · [![⭐](https://img.shields.io/github/stars/JuanjoFuchs/hwinfo-tui?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=30363d)](https://github.com/JuanjoFuchs/hwinfo-tui/stargazers)
+
+<a href="https://github.com/JuanjoFuchs/hwinfo-tui"><img src="https://raw.githubusercontent.com/JuanjoFuchs/hwinfo-tui/main/docs/demo.gif" alt="hwinfo-tui demo" width="100%"></a>
+
+A TUI for plotting HWInfo64 sensors. HWInfo shows your CPU at 75°C right now but can't tell you if it just spiked or has been climbing for 10 minutes. This plots the values live to visually understand your sensors.
+
+```bash
+uvx hwinfo-tui
+```
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
