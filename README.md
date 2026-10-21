@@ -173,11 +173,11 @@ npx @tranzact/tempo-filler-mcp-server
 ## ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [I let my AI agent manage my attention](https://juanjofuchs.com/blog/chief-of-staff)
 - [Teaching Your Second Brain to Dream](https://juanjofuchs.com/blog/teaching-your-second-brain-to-dream)
 - [Launching ccburn-mod: Your Token Burn-Up Chart, Inside Claude Code](https://juanjofuchs.com/blog/ccburn-mod)
 - [Recall](https://juanjofuchs.com/blog/recall)
 - [How can I use System One models in my second brain?](https://juanjofuchs.com/blog/system-one-models)
-- [What Sets You Apart](https://juanjofuchs.com/blog/what-sets-you-apart)
 <!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.com](https://juanjofuchs.com/), writing about AI‑native development, second‑brain workflows, and the tools above.
