@@ -173,11 +173,11 @@ npx @tranzact/tempo-filler-mcp-server
 ## ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Tokens Not Included](https://juanjofuchs.com/blog/tokens-not-included)
 - [How I Watch What My Coding Agents Are Doing](https://juanjofuchs.com/blog/sunflower-view)
 - [The Fridge Screen](https://juanjofuchs.com/blog/fridge-screen)
 - [Agents with Jobs, Not Goals](https://juanjofuchs.com/blog/agents-with-jobs)
 - [How I cut my local voice agent’s wait from 15 seconds to under 1](https://juanjofuchs.com/blog/fast-voice)
-- [I let my AI agent manage my attention](https://juanjofuchs.com/blog/chief-of-staff)
 <!-- BLOG-POST-LIST:END -->
 
 More at [juanjofuchs.com](https://juanjofuchs.com/), writing about AI‑native development, second‑brain workflows, and the tools above.
